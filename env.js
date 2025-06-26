@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://bing.herefor.top/'
+window.routerBase = 'https://google.phantasy.life/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
