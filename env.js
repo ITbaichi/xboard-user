@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://fu123.phantasy/'
+window.routerBase = 'https://fu123.phantasy.life/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
