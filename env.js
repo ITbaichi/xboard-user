@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://fu9.exlsjn.cn/'
+window.routerBase = 'https://svip.8088.eu.org/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
