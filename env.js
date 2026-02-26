@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://site.dogjd.eu.org/'
+window.routerBase = 'https://gw.dogjd.eu.org/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
